@@ -1,0 +1,38 @@
+{
+   "GameSaves":{
+      "Coins":32,
+      "Record":[
+         16,
+         "0:0'55.40"
+      ]
+   },
+   "Itens":{
+      "Buraco de minhoca":1,
+      "Encantamento de Fortuna":0,
+      "Escudo":0,
+      "Pocao de Crescimento":0,
+      "Ressurreicao":0,
+      "Zawarudo":0
+   },
+   "Musics":{
+      "List":[
+         0,
+         1,
+         2,
+         4,
+         6,
+         7,
+         8,
+         11,
+         12,
+         14,
+         22,
+         28,
+         30,
+         31,
+         34,
+         26,
+         3
+      ]
+   }
+}
